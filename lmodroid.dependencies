@@ -4,7 +4,7 @@
     "target_path": "device/google/gs201"
   },
   {
-    "remote": "lineage",
+    "remote": "aosp-pantah",
     "repository": "device/google/pantah-kernel",
     "target_path": "device/google/pantah-kernel"
   }
